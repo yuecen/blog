@@ -9,6 +9,7 @@ Just need some [log] to see what I've been done every week.
 #### Posts
 
 * `2019.04.24` [工科系課堂分享] (talk)
+* `2019.04.22` Notes on Professional Python: Decorators [WIP]
 * `2019.04.11` [對食材供應商逐步實現自動化轉單]
 * `2019.02.01` [實現 B2B 食材電商價格隱蔽性與浮動機制 - 食秘為例]
 * `2017.06.01` [Build a file conversion service by Django, Celery, and Docker]
