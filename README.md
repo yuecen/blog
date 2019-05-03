@@ -8,6 +8,7 @@ Just need some [log] to see what I've been done every week.
 
 #### Posts
 
+* `2019.05.03` [非對稱式加密與中間人攻擊原理]
 * `2019.04.26` [Notes on Professional Python: Magic Methods] (WIP)
 * `2019.04.24` [工科系課堂分享] (talk)
 * `2019.04.22` [Notes on Professional Python: Decorators] (WIP)
@@ -19,6 +20,7 @@ Just need some [log] to see what I've been done every week.
 * `2017.04.03` [A marketing efficiency comparison among social platforms, emails on GitHub and influencers]
 * `2016.08.16` [Exploring potential users by an email marketing plan with GitHub]
 
+[非對稱式加密與中間人攻擊原理]:blog/20190503.md
 [Notes on Professional Python: Magic Methods]:blog/20190426.md
 [Notes on Professional Python: Decorators]:blog/20190422.md
 [工科系課堂分享]:talk/2019_成大工科分享.pdf
