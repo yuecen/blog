@@ -9,7 +9,7 @@ Just need some [log] to see what I've been done every week.
 #### Posts
 
 * `2019.05.03` [非對稱式加密與中間人攻擊原理]
-* `2019.04.26` [Notes on Professional Python: Magic Methods] (WIP)
+* `2019.04.26` [Notes on Professional Python: Magic Methods]
 * `2019.04.24` [工科系課堂分享] (talk)
 * `2019.04.22` [Notes on Professional Python: Decorators] (WIP)
 * `2019.04.11` [對食材供應商逐步實現自動化轉單]
