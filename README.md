@@ -1,11 +1,5 @@
 ### 岳岑's Blog
 
-Hi, I'm yuecen (柳岳岑), the co-founder of [食秘], also an English learner. I love reading. You might like to check my [goodreads] page out if you are interested in my reading list. I currently use Go and Python to build our product for backend, and the frontend is created by Vue.js.
-
-#### Weekly Roundup
-
-Just need some [log] to see what I've been done every week.
-
 #### Posts
 
 * `2019.05.03` [非對稱式加密與中間人攻擊原理]
